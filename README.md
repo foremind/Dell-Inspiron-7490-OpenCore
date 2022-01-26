@@ -25,7 +25,7 @@ Not Working
 
 1. Screen brigtness using hot keys
 
-The software slider under display preferences works though)
+The software slider under display preferences works though.
 
 2. Sleep
 
