@@ -4,7 +4,7 @@ This repository documents my effort to install (unmodified) Ubuntu Linux and Ope
 
 Please check out the Fix-BIOS-Settings directory as the 7490 requires a critical change to the BIOS related to AHCI before one can install OpenCore or unmodified Ubuntu Linux on it.
 
-I have a 95% working 7490 running Big Sur 11.6.2. using OpenCore 0.7.7. Installing Ubuntu is a lot easier (once the BIOS is in AHCI mode) and the system works 100%.
+I have a 95% working 7490 running Big Sur 11.6.2. using OpenCore 0.7.7.
 
 Working
 
@@ -32,3 +32,6 @@ The software slider under display preferences works though)
 System will wake up after at most 30 seconds, likely some USB problems. Disabling Bluetooth via the preferences panel doesn't seem to help. But disabling it by USBMap seems to at least stop the screen from waking up. I am not sure the machine is truly sleeping though as I am able to SSH into it all the time while the screen is off (machine supposely sleeping).
 
 I will upload my config.plist and OpenCore directories in a moment. I hope other 7490 owners can help me get the rest of the features working.
+
+Btw, installing Ubuntu is a lot easier (once the BIOS is in AHCI mode) and the system works 100%.
+
