@@ -1,0 +1,1 @@
+# Dell-Inspiron-7490-OpenCore
