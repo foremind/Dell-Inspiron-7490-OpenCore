@@ -2,7 +2,7 @@ The following information is accurate as of BIOS 1.11.0 (released Jan 13, 2022).
 
 The BIOS of Dell Inspiron 7490 locks the disk interface into Intel RAID mode, but both macOS and (most) Linux distributions expect AHCI mode. Without AHCI the installation of macOS / Linux will go nowhere. On the Inspiron 7490 there is no user selectable settings in the BIOS screen to change that.
 
-The BIOS also locks the DVMT pre-allocated video memory to 32M, again there is no user selectable settings in the BIOS screen to change that. Changing this setting to 64M will save us lots of macOS graphics troubles later on.
+The BIOS also locks the DVMT pre-allocated video memory to 32M. Changing this setting to 64M will save us lots of macOS graphics troubles later on.
 
 macOS also requires the CFG_LOCK flag of the CPU be disabled. While OpenCore can handle this issue in the configuration file, we may as well do it in the BIOS.
 
