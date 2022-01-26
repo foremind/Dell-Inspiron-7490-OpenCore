@@ -1,4 +1,4 @@
-The following information is accurate as of BIOS 1.11.0 (released Jan 13, 2022). If you have a different BIOS version, DO NOT carry out the setup_var operations without further investigation as the offets may change between BIOS releases. Patching the wront offsets may brick your computer.
+The following information is accurate as of BIOS 1.11.0 (released Jan 13, 2022). If you have a different BIOS version, DO NOT carry out the setup_var operations without further investigation as the offets may change between BIOS releases. Patching the wrong offsets may brick your computer.
 
 The BIOS of Dell Inspiron 7490 locks the disk interface into Intel RAID mode, but both macOS and (most) Linux distributions expect AHCI mode. Without AHCI the installation of macOS / Linux will go nowhere. On the Inspiron 7490 there is no user selectable settings in the BIOS screen to change that.
 
