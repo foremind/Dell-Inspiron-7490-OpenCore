@@ -4,7 +4,7 @@ This repository documents my effort to install (unmodified) Ubuntu Linux and Ope
 
 Please check out the Fix-BIOS-Settings directory as the 7490 requires a critical change to the BIOS related to AHCI before one can install OpenCore or unmodified Ubuntu Linux on it.
 
-I have a 95% working 7490 running Big Sur 11.6.2. using OpenCore 0.7.7.
+I have a 95% working 7490 running Big Sur 11.6.3. using OpenCore 0.7.7.
 
 Working
 
