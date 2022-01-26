@@ -1,6 +1,6 @@
 # Dell-Inspiron-7490-OpenCore
 
-This repository documents my effort to install (unmodified) Ubuntu Linux and OpenCore onto a Dell Inspiron 7490 notebook.
+This repository documents my effort to install (unmodified) Ubuntu Linux and OpenCore Hackintosh onto a Dell Inspiron 7490 notebook.
 
 Please check out the Fix-BIOS-Settings directory as the 7490 requires a critical change to the BIOS related to AHCI before one can install OpenCore or unmodified Ubuntu Linux on it.
 
