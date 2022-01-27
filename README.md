@@ -33,5 +33,5 @@ System will wake up after at most 30 seconds, likely some USB problems. Disablin
 
 I will upload my config.plist and OpenCore directories soon. I hope other 7490 owners can help me get the rest of the features working.
 
-Btw, installing Ubuntu is a lot easier (once the BIOS is in AHCI mode) and the system works 100%.
+Btw, installing Ubuntu is a lot easier (once the BIOS is in AHCI mode) and the system works well except the fan comes on quite often.
 
