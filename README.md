@@ -13,7 +13,7 @@ Working
 3. Bluetooth
 4. Sound (with volume control using hot keys)
 5. HDMI - external only or multi-screen with built-in display (I only tested with a cheap 1920 x 1080 (HDMI 1.4?) monitor)
-6. USB2 and USB3 (need rhub.asl initially to do USBMap mapping, otherwise the internal Bluetooth and touchpad interfaces won't show up)
+6. USB2 and USB3 (need rhub.asl initially to create the USBMap mapping, otherwise the internal Bluetooth and touchpad interfaces won't show up)
 
 Mostly Working
 
