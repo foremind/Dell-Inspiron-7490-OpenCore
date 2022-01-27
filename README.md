@@ -19,7 +19,7 @@ Mostly Working
 
 1. Touchpad - fully functional using VoodooI2CHID
 
-Sometimes after powering on the touchpad may disappear, another (2 or 3) hot reboots will usually fix that, likely some problems with Voodoo drivers and perhaps even a race condition?
+Sometimes after powering on the touchpad (and therefore your built-in mosue!) may disappear, another (2 or 3) hot reboots will usually fix that, but you will either need an external mouse or hold the power button to shut it down. Likely some problems with Voodoo drivers and perhaps even a race condition?
 
 Not Working
 
