@@ -1,3 +1,5 @@
+*** Uploaded files for Monterey 12.3.1 ***
+
 # Dell-Inspiron-7490-OpenCore
 
 This repository documents my effort to install (unmodified) Ubuntu Linux and OpenCore Hackintosh onto a Dell Inspiron 7490 notebook.
