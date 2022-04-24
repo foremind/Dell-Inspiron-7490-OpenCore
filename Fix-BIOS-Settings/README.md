@@ -1,3 +1,5 @@
+*** There is a new BIOS 1.12.1 as of April 22, 2022. I haven't have time to play with it yet. So hack at your own risk!!! ***
+
 The following information is accurate as of BIOS 1.11.0 (released Jan 13, 2022), anything between 1.6 and 1.10 should be okay as well. If you have a different (especially newer) BIOS version, DO NOT carry out the setup_var operations without further investigation as the offets may change between BIOS releases. Patching the wrong offsets may brick your computer!!!
 
 The BIOS of Dell Inspiron 7490 locks the disk interface into Intel RAID mode, but both macOS and (most) Linux distributions expect AHCI mode. Without AHCI the installation of macOS / Linux will go nowhere. On the Inspiron 7490 there is no user selectable settings in the BIOS screen to change that.
